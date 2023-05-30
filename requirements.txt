@@ -2,3 +2,4 @@ aiogram
 deep_translator
 dotenv
 os
+gunicorn
